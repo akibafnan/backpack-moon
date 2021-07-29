@@ -1,0 +1,24 @@
+.logo{
+    width: 30%;
+}
+.heading1{
+    font-size: 50px;
+    color: #363958;
+    font-weight: 700;
+}
+.heading2{
+    font-size: 50px;
+    color: #77BF7E;
+    font-weight: 700;
+}
+.purple{
+    color: #363958;
+}
+.price{
+    color: #77BF7E;
+    font-weight: 700;
+    font-size: 30px;
+}
+.button{
+    background-color: #363958;
+}
