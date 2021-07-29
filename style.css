@@ -22,3 +22,11 @@
 .button{
     background-color: #363958;
 }
+.product-head{
+    color:#363958;
+    font-weight: 700;
+    font-size: 30px;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
